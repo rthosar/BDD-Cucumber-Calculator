@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: BddTestRunner1
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.692 s <<< FAILURE! - in BddTestRunner1
+Calculator Add & Substract(Develop a calculator)  Time elapsed: 0.048 s  <<< ERROR!
+com.bdd.specs.GreaterThanException: -2 is less than 0
+
+Calculator Add & Substract(Develop a calculator)  Time elapsed: 0 s  <<< ERROR!
+com.bdd.specs.GreaterThanException: -1 is lesser than 5
+
